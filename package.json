@@ -2,8 +2,10 @@
   "name": "learnx",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
+  "packageManager": "pnpm@10.11.0",
   "scripts": {
-    "dev": "next dev --turbopack",
+    "dev": "next dev --experimental-https",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
