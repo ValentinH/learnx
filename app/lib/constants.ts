@@ -1,0 +1,1 @@
+export const DEFAULT_MODEL = "vertex/gemini-2.0-flash-001";
